@@ -12,7 +12,6 @@ var a = [1,2,3,4,5]
 var b = a;
 
 console.log(b.pop(1))
-
 // data types
 /*
 float 12.3
@@ -25,6 +24,7 @@ object
 symbol
 undefined
 NaN = koi number ke saath aisa operation kiya jo ho nahi sakta
+infinity = 1/0
 */
 
 let name = "Ankit";
