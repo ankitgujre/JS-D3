@@ -34,3 +34,9 @@ let isStudent = true;
 console.log(typeof name);      // "string"
 console.log(typeof age);       // "number"
 console.log(typeof isStudent); // "boolean"
+
+
+let c = [1,2,3,4];
+let d = c;
+
+console.log(d.pop())
